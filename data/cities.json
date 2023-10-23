@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Talwandi Sabo",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-21T10:52:50.173Z",
+      "notes": "cfgvhbjnmklkjnbhcgfszaszddfgvhbjk",
+      "position": {
+        "lat": "30.02317843539057",
+        "lng": "75.01567840576173"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-24T12:05:09.188Z",
+      "notes": "",
+      "position": {
+        "lat": "27.00866704617287",
+        "lng": "75.72429656982423"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Sri Madhopur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-24T12:05:17.180Z",
+      "notes": "",
+      "position": {
+        "lat": "27.479034752500656",
+        "lng": "75.63125610351564"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-12T04:54:56.472Z",
+      "notes": "vgbhjnk",
+      "position": {
+        "lat": "26.9106123015427",
+        "lng": "75.819867335879"
+      },
+      "id": 98443210
+    }
+  ]
+}
